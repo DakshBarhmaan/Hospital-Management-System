@@ -1,0 +1,52 @@
+[
+  {
+    "username": "admin1",
+    "password": "admin123",
+    "role": "admin"
+  },
+  {
+    "username": "admin2",
+    "password": "admin456",
+    "role": "admin"
+  },
+  {
+    "username": "P15380",
+    "password": "3q5gQKHN",
+    "role": "patient"
+  },
+  {
+    "username": "P37530",
+    "password": "IS4azb0J",
+    "role": "patient"
+  },
+  {
+    "username": "P51259",
+    "password": "bKqAwdnG",
+    "role": "patient"
+  },
+  {
+    "username": "P48691",
+    "password": "B4uqLmnU",
+    "role": "patient"
+  },
+  {
+    "username": "P35503",
+    "password": "iroiAkY3",
+    "role": "patient"
+  },
+  {
+    "username": "P69936",
+    "password": "NMNFe2DY",
+    "role": "patient"
+  },
+  {
+    "username": "P76144",
+    "password": "ABWFfHz8",
+    "role": "patient"
+  },
+  {
+    "username": "P41313",
+    "password": "g5PRMI6V",
+    "role": "patient"
+  }
+]

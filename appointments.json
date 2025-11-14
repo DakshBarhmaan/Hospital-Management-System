@@ -1,0 +1,42 @@
+[
+  {
+    "appointment_id": 1,
+    "patient_id": "P15380",
+    "doctor_id": 2,
+    "visit_type": "General Consultation",
+    "condition": "Mild fever, cough",
+    "date": "06-11-2025",
+    "time": "12:00",
+    "status": "Scheduled"
+  },
+  {
+    "appointment_id": 2,
+    "patient_id": "P37530",
+    "doctor_id": 2,
+    "visit_type": "General Consultation",
+    "condition": "cough, mild fever",
+    "date": "07-11-2025",
+    "time": "12:00",
+    "status": "Scheduled"
+  },
+  {
+    "appointment_id": 3,
+    "patient_id": "P48691",
+    "doctor_id": 11,
+    "visit_type": "General Consultation",
+    "condition": "N/A",
+    "date": "15-11-2025",
+    "time": "13:00-14:00",
+    "status": "Scheduled"
+  },
+  {
+    "appointment_id": 4,
+    "patient_id": "P41313",
+    "doctor_id": 11,
+    "visit_type": "General Consultation",
+    "condition": "N/A",
+    "date": "17-11-2025",
+    "time": "15:00-16:00",
+    "status": "Scheduled"
+  }
+]

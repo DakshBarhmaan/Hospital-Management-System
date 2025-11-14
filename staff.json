@@ -1,0 +1,32 @@
+[
+  {
+    "staff_id": 1,
+    "name": "Anjali Mehta",
+    "role": "Receptionist",
+    "shift_timings": "8:00 AM - 4:00 PM"
+  },
+  {
+    "staff_id": 2,
+    "name": "Ravi Kumar",
+    "role": "Receptionist",
+    "shift_timings": "4:00 PM - 12:00 AM"
+  },
+  {
+    "staff_id": 3,
+    "name": "Meena Sharma",
+    "role": "Nurse",
+    "shift_timings": "9:00 AM - 5:00 PM"
+  },
+  {
+    "staff_id": 4,
+    "name": "Pooja Desai",
+    "role": "Nurse",
+    "shift_timings": "5:00 PM - 1:00 AM"
+  },
+  {
+    "staff_id": 5,
+    "name": "Suresh Rao",
+    "role": "Management Staff",
+    "shift_timings": "9:00 AM - 6:00 PM"
+  }
+]

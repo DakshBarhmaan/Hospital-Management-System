@@ -1,0 +1,51 @@
+[
+  {
+    "patient_id": "P15380",
+    "name": "Daksh",
+    "phone": "123\\",
+    "email": "ajk@email.com",
+    "password": "3q5gQKHN"
+  },
+  {
+    "patient_id": "P37530",
+    "name": "daksh",
+    "phone": "123",
+    "email": "abc@mail.com",
+    "password": "IS4azb0J"
+  },
+  {
+    "patient_id": "P48691",
+    "name": "daksh",
+    "phone": "123456",
+    "email": "dk@email.com",
+    "password": "B4uqLmnU"
+  },
+  {
+    "patient_id": "P35503",
+    "name": "abc23",
+    "phone": "7485",
+    "email": "djdn@mail",
+    "password": "iroiAkY3"
+  },
+  {
+    "patient_id": "P69936",
+    "name": "saumya",
+    "phone": "3657383",
+    "email": "ss@mail.com",
+    "password": "NMNFe2DY"
+  },
+  {
+    "patient_id": "P76144",
+    "name": "saumya",
+    "phone": "374783",
+    "email": "ss@mail.com",
+    "password": "ABWFfHz8"
+  },
+  {
+    "patient_id": "P41313",
+    "name": "sajdd",
+    "phone": "3783",
+    "email": "adn",
+    "password": "g5PRMI6V"
+  }
+]

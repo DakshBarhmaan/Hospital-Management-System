@@ -1,0 +1,122 @@
+[
+  {
+    "doctor_id": 1,
+    "name": "Dr. Rajesh Kumar",
+    "specialization": "Cardiology",
+    "shift_timings": "9:00 AM - 5:00 PM"
+  },
+  {
+    "doctor_id": 2,
+    "name": "Dr. Priya Sharma",
+    "specialization": "General Physician",
+    "shift_timings": "10:00 AM - 6:00 PM"
+  },
+  {
+    "doctor_id": 3,
+    "name": "Dr. Amit Patel",
+    "specialization": "Orthopedics",
+    "shift_timings": "11:00 AM - 7:00 PM"
+  },
+  {
+    "doctor_id": 4,
+    "name": "Dr. Sunita Singh",
+    "specialization": "Pediatrics",
+    "shift_timings": "9:00 AM - 5:00 PM"
+  },
+  {
+    "doctor_id": 5,
+    "name": "Dr. Vikram Reddy",
+    "specialization": "Dermatology",
+    "shift_timings": "12:00 PM - 8:00 PM"
+  },
+  {
+    "doctor_id": 6,
+    "name": "Dr. Neha Gupta",
+    "specialization": "ENT Specialist",
+    "shift_timings": "8:00 AM - 4:00 PM"
+  },
+  {
+    "doctor_id": 7,
+    "name": "Dr. Arun Verma",
+    "specialization": "Neurology",
+    "shift_timings": "2:00 PM - 10:00 PM"
+  },
+  {
+    "doctor_id": 8,
+    "name": "Dr. Kavita Joshi",
+    "specialization": "Psychiatry",
+    "shift_timings": "9:00 AM - 5:00 PM"
+  },
+  {
+    "doctor_id": 9,
+    "name": "Dr. Sanjay Rao",
+    "specialization": "Ophthalmology",
+    "shift_timings": "10:00 AM - 6:00 PM"
+  },
+  {
+    "doctor_id": 10,
+    "name": "Dr. Anita Deshpande",
+    "specialization": "Gynecology",
+    "shift_timings": "9:00 AM - 5:00 PM"
+  },
+  {
+    "doctor_id": 11,
+    "name": "Dr. Rahul Bhat",
+    "specialization": "Endocrinology",
+    "shift_timings": "1:00 PM - 9:00 PM"
+  },
+  {
+    "doctor_id": 12,
+    "name": "Dr. Meera Iyer",
+    "specialization": "Gastroenterology",
+    "shift_timings": "8:00 AM - 4:00 PM"
+  },
+  {
+    "doctor_id": 13,
+    "name": "Dr. Karan Malhotra",
+    "specialization": "Pulmonology",
+    "shift_timings": "3:00 PM - 11:00 PM"
+  },
+  {
+    "doctor_id": 14,
+    "name": "Dr. Swati Kapoor",
+    "specialization": "Nephrology",
+    "shift_timings": "10:00 AM - 6:00 PM"
+  },
+  {
+    "doctor_id": 15,
+    "name": "Dr. Rohit Sinha",
+    "specialization": "Urology",
+    "shift_timings": "9:00 AM - 5:00 PM"
+  },
+  {
+    "doctor_id": 16,
+    "name": "Dr. Nisha Menon",
+    "specialization": "Oncology",
+    "shift_timings": "12:00 PM - 8:00 PM"
+  },
+  {
+    "doctor_id": 17,
+    "name": "Dr. Vikram Chawla",
+    "specialization": "Rheumatology",
+    "shift_timings": "8:00 AM - 4:00 PM"
+  },
+  {
+    "doctor_id": 18,
+    "name": "Dr. Pooja Jain",
+    "specialization": "Dermatology (Cosmetic)",
+    "shift_timings": "1:00 PM - 9:00 PM"
+  },
+  {
+    "doctor_id": 19,
+    "name": "Dr. Aditya Nair",
+    "specialization": "Sports Medicine",
+    "shift_timings": "10:00 AM - 6:00 PM"
+  },
+  {
+    "doctor_id": 20,
+    "name": "Dr. Deepa Kaur",
+    "specialization": "Dentistry",
+    "shift_timings": "9:00 AM - 5:00 PM"
+  }
+]
